@@ -1,10 +1,12 @@
-# Applying sentiment Analysis on a Corpus with Python and Google Cloud Services 
+# :pineapple: Applying sentiment Analysis on a Corpus with Python and Google Cloud Services 
 
 ![Image of SS](https://github.com/cflores713/pineappleProject/blob/master/Screen%20Shot%202019-02-24%20at%2012.13.37%20AM.png)
 
-Authors: Carlos Flores, Ibrahim Khatkhatay
-Project: Safe Word Pineapple
+# :pineapple: Authors: Carlos Flores, Ibrahim Khatkhatay
 
+# Project: Safe Word Pineapple
+
+# Website: https://devpost.com/software/safe-word-pineapple
 Requirements for a successful run:
 1. Access to Google Cloud Services
 2. Set up account with Google Cloud Platform
@@ -26,3 +28,5 @@ The input from the attatched screenshot came from this favorable movie review:
 ![Image of results](https://github.com/cflores713/pineappleProject/blob/master/Screen%20Shot%202019-09-07%20at%2011.48.53%20AM.png)
 
 As you can see, the results are positive with a high magnitude.
+
+# Have fun!
